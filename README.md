@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Devoted to answering unrisen questions through system analysis and data-driven insights.<br><br>My key areas of interest are:<br>- System Analysis<br>- System Design<br>- Data Analysis<br>- Artificial Intelligence</p>
+<p align="left">Devoted to answering yet unrisen questions through system analysis and data-driven insights.<br><br>My key areas of interest are:<br>- System Analysis<br>- System Design<br>- Data Analysis<br>- Artificial Intelligence</p>
 
 ###
 
